@@ -1,5 +1,17 @@
 {
-  "correctCode10Days": "30POPIBGUGYBYFGH",
-  "correctCode15Days": "60POPINMEDCLINIC",
-  "correctCode20Days": "90AQSACOMPUTERAN"
+  "users": [
+    {
+      "username": "correctCode10Days",
+      "extensionKey": "09859999"
+    },
+    {
+      "username": "correctCode15Days",
+      "extensionKey": "1234567891"
+    },
+    {
+      "username": "correctCode20Days",
+      "extensionKey": "0987654321"
+    }
+  ]
 }
+
